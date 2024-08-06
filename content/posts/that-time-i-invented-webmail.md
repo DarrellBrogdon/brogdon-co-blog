@@ -1,7 +1,7 @@
 +++
 title = 'That Time I Invented Webmail'
 date = 2024-08-06T08:13:56-06:00
-draft = true
+draft = false
 +++
 In early 1997 I was working at a hosting company--my first real job in technology.  My dream job.
 
