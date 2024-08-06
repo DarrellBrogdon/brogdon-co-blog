@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Brogdon Co Blog</title>
-    <link>https://brogdon.co/</link>
+    <link>https://blog.brogdon.co/</link>
     <description>Recent content on Brogdon Co Blog</description>
     <generator>Hugo -- 0.131.0</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 06 Aug 2024 08:13:56 -0600</lastBuildDate>
-    <atom:link href="https://brogdon.co/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://blog.brogdon.co/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>That Time I Invented Webmail</title>
-      <link>https://brogdon.co/posts/that-time-i-invented-webmail/</link>
+      <link>https://blog.brogdon.co/posts/that-time-i-invented-webmail/</link>
       <pubDate>Tue, 06 Aug 2024 08:13:56 -0600</pubDate>
-      <guid>https://brogdon.co/posts/that-time-i-invented-webmail/</guid>
+      <guid>https://blog.brogdon.co/posts/that-time-i-invented-webmail/</guid>
       <description>In early 1997, I was working at a hosting company&amp;ndash;my first real job in technology. My dream job.
 Back then, few people carried laptops because they were still quite large, heavy, and underpowered, which meant I had a company-provided desktop computer (also large and heavy) at the office and then my personal machine at home. There was little in the way of email syncing since most email accounts used POP instead of IMAP for some reason.</description>
     </item>

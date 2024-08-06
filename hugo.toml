@@ -1,4 +1,4 @@
-baseURL = 'https://brogdon.co/'
+baseURL = 'https://blog.brogdon.co/'
 languageCode = 'en-us'
 title = 'Brogdon Co Blog'
 theme = 'papermod'
